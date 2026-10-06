@@ -187,6 +187,6 @@ Status: Stable... probably.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Worldline+Observers&color=00ff9c&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=AbdHyi&label=Worldline+Observers&color=00ff9c&style=for-the-badge&base=1" />
 
 </p>
