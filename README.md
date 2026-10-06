@@ -172,7 +172,7 @@ Status: Stable... probably.
 <p align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AbdHyi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/[USERNAME](https://www.linkedin.com/in/abdulhayyi1881422/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abdulhayyi1881422/)
 [![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dream.no.limit18@gmail.com)
 
 </p>
