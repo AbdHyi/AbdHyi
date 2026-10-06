@@ -15,7 +15,7 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile.;I'm a Computer+Science+Student;Web+App.+Pentester+%7C+Cybersecurity+Learner.;Exploring+the+world+one+worldline+at+a+time.;El+Psy+Kongroo." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile.;I'm+a+Computer+Science+Student;Web+App.+Pentester+%7C+Cybersecurity+Learner.;Exploring+the+world+one+worldline+at+a+time.;El+Psy+Kongroo." />
 </p>
 
 ---
@@ -83,7 +83,7 @@ Long-Term Goal:
 
 ## 🧬 Featured Projects
 
-### 🛰️ Cyber Ocean
+### 🛰️ Cyber Ocean (LARAVEL-5D-PBO2)
 
 > A cybersecurity-focused project exploring web security, reconnaissance, and penetration testing for students, universities, and company in one place for interacting and mutual.
 
@@ -100,43 +100,10 @@ Long-Term Goal:
 ```text
 Framework : Laravel
 Database  : MySQL
-Frontend  : Blade / CSS / JavaScript
+Frontend  : Blade / CSS / Other
 Purpose   : Academic Project
 Status    : Completed
 ```
-
----
-
-### 🔐 Web Security Lab
-
-> Personal laboratory for studying web application vulnerabilities through legal and controlled environments.
-
-```text
-Topics:
-  ├── XSS
-  ├── SQL Injection
-  ├── IDOR
-  ├── Authentication
-  ├── Access Control
-  └── Bug Bounty Methodology
-```
-
----
-
-## 🧠 Security Learning Progress
-
-```text
-Web Fundamentals         ███████████████░░░  80%
-HTTP / Cookies           ████████████████░░  85%
-Burp Suite               █████████████░░░░░  70%
-XSS                      ███████████████░░░  80%
-SQL Injection            █████████████░░░░░  70%
-Reconnaissance           ███████████░░░░░░░  60%
-IDOR / Access Control    ████████░░░░░░░░░░  40%
-Reporting                ██████░░░░░░░░░░░░  30%
-```
-
-> *Every vulnerability is another clue leading to the next worldline.*
 
 ---
 
