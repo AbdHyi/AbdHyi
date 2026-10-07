@@ -15,7 +15,7 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile.;I'm+a+Informatics+Engineering+Student;Web+Application+Pentester+%7C+Cybersecurity+Learner.;Exploring+the+world+one+worldline+at+a+time.;Try+to+do+things+fully+on+it." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile.;I'm+an+Informatics+Engineering+Student;Web+Application+Pentester+%7C+Cybersecurity+Learner.;Exploring+the+world+one+worldline+at+a+time.;Try+to+do+things+fully+on+it." />
 </p>
 
 ---
@@ -24,13 +24,13 @@
 
 > **"Crazy" at a moment, but normal person as you see here**
 
-Hello, I'm **Abdul Hayyi** — a Computer Science student who enjoys learning cybersecurity, experimenting with new technologies, and sometimes do web. dev.
+Hello, I'm **Abdul Hayyi** — a Informatics Engineering student who enjoys learning cybersecurity, experimenting with new technologies, and sometimes do web. dev.
 
 Currently, my main interests revolve around:
 
 * 🛡️ Web Application Security
 * 🔍 Penetration Testing
-* 🧠 Computer Science
+* 🧠 Computer Science, etc
 * 💻 Web Development (Javascript and PHP, but partially)
 * 🧪 Experimental Projects (random stuff)
 
@@ -44,7 +44,7 @@ I enjoy breaking things to understand how they work,  turning ideas into project
 Name: Abdul Hayyi
 Alias: Lab Member #001
 Location: Indonesia
-Occupation: Computer Science Student at UNISKA MAB
+Occupation: Informatics Engineering Student at UNISKA MAB
 
 Current Focus:
   - Web Application Security
