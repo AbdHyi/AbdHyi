@@ -61,6 +61,7 @@ Learning:
 
 Long-Term Goal:
   - Become a Web Application Penetration Tester
+  - Landing a Cyber Security role
 ```
 
 ---
@@ -70,7 +71,7 @@ Long-Term Goal:
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp" />
 </p>
 
 ### Frameworks & Tools
@@ -125,8 +126,8 @@ Status: Stable... probably.
 ### Current Experiments
 
 ```text
-[01] Building web applications
-[02] Learning offensive web security
+[01] Learning offensive web security
+[02] Building web applications
 [03] Studying vulnerability research
 [04] Improving Linux workflow
 [05] Creating projects worth remembering
@@ -157,11 +158,11 @@ Status: Stable... probably.
 │                                               │
 │ Secondary objectives:                         │
 │                                               │
-│  > Build useful projects                     │
-│  > Discover vulnerabilities                  │
-│  > Write professional reports                │
-│  > Contribute to the security community      │
-│  > Never stop learning                       │
+│  > Build useful projects                      │
+│  > Discover vulnerabilities                   │
+│  > Write professional reports                 │
+│  > Contribute to the security community       │
+│  > Never stop learning                        │
 └───────────────────────────────────────────────┘
 ```
 
@@ -183,7 +184,7 @@ Status: Stable... probably.
 
 ### 「 El Psy Kongroo. 」
 
-*"The choice of Steins;Gate."*
+*"The choice of Steins; Gate."*
 
 <br>
 
