@@ -15,7 +15,7 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile.;I'm+a+Computer+Science+Student;Web+App.+Pentester+%7C+Cybersecurity+Learner.;Exploring+the+world+one+worldline+at+a+time.;El+Psy+Kongroo." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile.;I'm+a+Informatics+Engineering+Student;Web+Application+Pentester+%7C+Cybersecurity+Learner.;Exploring+the+world+one+worldline+at+a+time.;Try to do things fully on it." />
 </p>
 
 ---
