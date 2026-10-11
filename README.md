@@ -3,8 +3,6 @@
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║                     ░▒▓ FD  LABORATORY ▓▒░                       ║
-║                                                                  ║
 ║                  "The worldline has shifted..."                  ║
 ║                                                                  ║
 ║      Divergence Meter : 1.048596                                 ║
@@ -24,7 +22,7 @@
 
 > **"Crazy" at a moment, but normal person as you see here**
 
-Hello, I'm **Abdul Hayyi** — a Informatics Engineering student who enjoys learning cybersecurity, experimenting with new technologies, and sometimes do web. dev.
+Hello, I'm **Abdul Hayyi** — an Informatics Engineering student who enjoys learning cybersecurity, experimenting with new technologies, and sometimes do web. dev.
 
 Currently, my main interests revolve around:
 
@@ -89,8 +87,6 @@ Long-Term Goal:
 > A cybersecurity-focused project exploring web security, reconnaissance, and penetration testing for students, universities, and company in one place for interacting and mutual.
 
 **Status:** `Researching`
-
-**Worldline:** `α → β`
 
 ---
 
