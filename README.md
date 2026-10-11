@@ -22,7 +22,7 @@
 
 > **"Crazy" at a moment, but normal person as you see here**
 
-Hello, I'm **Abdul Hayyi** — an Informatics Engineering student who enjoys learning cybersecurity, experimenting with new technologies, and sometimes do web. dev.
+Hello, I'm **Abdul Hayyi** a.k.a **"FD"** — an Informatics Engineering student who enjoys learning cybersecurity, experimenting with new technologies, and sometimes do web. dev.
 
 Currently, my main interests revolve around:
 
